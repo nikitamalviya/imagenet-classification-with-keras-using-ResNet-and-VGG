@@ -1,6 +1,6 @@
 # ImageNet classification with Python and Keras using ResNet and VGG
 
-* This module classify and tests the accuracy of VGG and ResNet models trained on ImageNet dataset.
+* This module classify and tests the accuracy of **ResNet** and **VGG** models trained on ImageNet dataset.
 
 * Loads the ResNet(winner) and VGG16 (runner up) of [ImageNet Large Scale Recognition Challenge](http://www.image-net.org/challenges/LSVRC/) to predict and classify.
 

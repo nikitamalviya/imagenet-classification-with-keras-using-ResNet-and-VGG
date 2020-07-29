@@ -1,4 +1,8 @@
-''' This module tests the accuracy of VGG and ResNet models trained on ImageNet dataset.'''
+'''
+Author : Nikita Malviya
+last Edited : 28 January 2020
+
+This module tests the accuracy of VGG and ResNet models trained on ImageNet dataset.'''
 
 from keras.preprocessing import image as image_utils
 from keras.applications.imagenet_utils import decode_predictions
