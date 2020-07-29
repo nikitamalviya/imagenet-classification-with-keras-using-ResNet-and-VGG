@@ -15,10 +15,16 @@
 
 ## Results
 
-![Laptop]('output/laptop.jpg')
-![Plate]('output/plate.jpg')
-![Beer]('output/beer.jpg')
-![Bus]('output/bus.jpeg')
-![Banana]('output/banana.jpg')
-![Boat]('output/boat.jpeg')
-![Car]('output/car.jpg')
+[Laptop]('output/laptop.jpg')
+[Plate]('output/plate.jpg')
+[Beer]('output/beer.jpg')
+[Bus]('output/bus.jpeg')
+[Banana]('output/banana.jpg')
+[Boat]('output/boat.jpeg')
+[Car]('output/car.jpg')
+[Rikshaw]('output/rikshaw.jpg')
+[Coffee]('output/cup.jpeg')
+[Horse]('output/horse.jpg')
+[Salad]('output/salad.jpeg')
+[Dog]('output/dog.jpeg')
+[Coke]('output/coke.jpg')
